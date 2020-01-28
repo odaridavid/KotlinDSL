@@ -1,0 +1,1 @@
+data class Home(val location: String, val compound: Compound, val house: House)

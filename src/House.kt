@@ -1,0 +1,1 @@
+data class House(val noOfRooms: Int, val hasTiledFloors: Boolean)

@@ -1,0 +1,1 @@
+data class Compound(val hasDecorations: Boolean)
